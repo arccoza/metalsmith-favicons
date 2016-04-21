@@ -1,0 +1,27 @@
+{
+  "name": "metalsmith-favicons",
+  "version": "1.0.0",
+  "description": "Generate your favicons with Metalsmith.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arccoza/metalsmith-favicons.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "plugin",
+    "favicons",
+    "favicon",
+    "generate",
+    "generator"
+  ],
+  "author": "Adrien de Pierres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arccoza/metalsmith-favicons/issues"
+  },
+  "homepage": "https://github.com/arccoza/metalsmith-favicons#readme"
+}
