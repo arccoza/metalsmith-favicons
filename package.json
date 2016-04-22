@@ -1,7 +1,7 @@
 {
   "name": "metalsmith-favicons",
   "version": "1.0.0",
-  "description": "Generate your favicons with Metalsmith.",
+  "description": "A Metalsmith favicons generator.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
