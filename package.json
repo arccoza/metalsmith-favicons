@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/arccoza/metalsmith-favicons/issues"
   },
-  "homepage": "https://github.com/arccoza/metalsmith-favicons#readme"
+  "homepage": "https://github.com/arccoza/metalsmith-favicons#readme",
+  "dependencies": {
+    "favicons": "^4.8.3"
+  }
 }
